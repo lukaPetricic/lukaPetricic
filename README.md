@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Luka Petricic 👋
 
+[linkedIn](https://www.linkedin.com/in/luka-petricic/)
 <!--
 **lukaPetricic/lukaPetricic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
