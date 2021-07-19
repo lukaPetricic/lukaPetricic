@@ -1,6 +1,8 @@
 ### Hi there, I'm Luka Petricic 👋
 
-[linkedIn](https://www.linkedin.com/in/luka-petricic/)
+[![LinkedIn](https://img.shields.io/badge/whitelisab%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lukaPetricic/)](https://www.linkedin.com/in/lukaPetricic/)
+[![GitHub](https://img.shields.io/badge/whitelisab%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/lukaPetricic)](https://github.com/lukaPetricic)
+[![Gmail](https://img.shields.io/badge/whitelisab%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:lukapetricic@gmail.com)](mailto:lukapetricic@gmail.com)
 <!--
 **lukaPetricic/lukaPetricic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
